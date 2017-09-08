@@ -1,2 +1,0 @@
-open Structures
-open MessengerServer
